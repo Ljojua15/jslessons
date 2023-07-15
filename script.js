@@ -16,15 +16,15 @@
 
 // las(10);
 
-let x = true;
+// let x = true;
 
-switch (x) {
-  case Number:
-    console.log("gatishva");
-    break;
-  case Boolean:
-    console.log("chartva");
-    break;
-  default:
-    console.log("mnishvneloba ver");
-}
+// switch (x) {
+//   case Number:
+//     console.log("gatishva");
+//     break;
+//   case Boolean:
+//     console.log("chartva");
+//     break;
+//   default:
+//     console.log("mnishvneloba ver");
+// }
